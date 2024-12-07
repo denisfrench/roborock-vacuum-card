@@ -1,5 +1,5 @@
 {
-  "name": "roborock",
+  "name": "roborock-vacuum-card",
   "version": "1.0.3",
   "description": "",
   "main": "dist/roborock-vacuum-card.js",
